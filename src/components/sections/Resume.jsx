@@ -17,7 +17,7 @@ export default function Education() {
 
           {/* Content */}
           <h4 className="text-lg font-semibold text-white">
-            Mater of Computer Applications (MCA)
+            Master of Computer Applications (MCA)
           </h4>
 
           <p className="text-sm text-[#FFDB70] mt-1">

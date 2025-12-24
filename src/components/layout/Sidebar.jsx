@@ -72,7 +72,7 @@ export default function Sidebar() {
         </a>
 
         <a
-          href="/resume.pdf"
+          href="/Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 rounded-full hover:bg-[#202022] hover:text-yellow-400 transition"
