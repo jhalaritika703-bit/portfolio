@@ -10,6 +10,9 @@ import Resume from "./components/sections/Resume";
 import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Education from "./components/sections/Resume";
+import Footer from "./components/layout/Footer";
+
+
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("About");
@@ -34,6 +37,7 @@ export default function App() {
           </div>
         </main>
       </div>
+      <Footer/>
     </div>
   );
 }
